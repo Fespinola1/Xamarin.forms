@@ -1,0 +1,11 @@
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\HolaMundo2.dll
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\HolaMundo2.pdb
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\HolaMundo2.dll.CodeAnalysisLog.xml
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\HolaMundo2.dll.lastcodeanalysissucceeded
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\obj\Release\HolaMundo2.dll
+C:\Users\tecni\Documents\Visual Studio 2015\Projects\HolaMundo2\HolaMundo2\HolaMundo2\obj\Release\HolaMundo2.pdb
