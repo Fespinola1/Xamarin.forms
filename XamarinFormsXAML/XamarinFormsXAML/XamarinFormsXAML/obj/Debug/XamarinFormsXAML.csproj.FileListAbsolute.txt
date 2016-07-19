@@ -1,0 +1,14 @@
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\XamarinFormsXAML.dll
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\XamarinFormsXAML.pdb
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\obj\Debug\XamarinFormsXAML.csprojResolveAssemblyReference.cache
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\obj\Debug\XamarinFormsXAML.HomePage.xaml.g.cs
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\obj\Debug\XamarinFormsXAML.dll
+c:\users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\obj\Debug\XamarinFormsXAML.pdb
+C:\Users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\bin\Debug\Xamarin.Forms.Xaml.pdb

@@ -1,0 +1,2 @@
+C:\Users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML.UWP\XamarinFormsXAML.UWP.csproj;x86
+C:\Users\tecni\documents\visual studio 2015\Projects\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML\XamarinFormsXAML.csproj;neutral
